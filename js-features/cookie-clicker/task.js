@@ -17,4 +17,4 @@ cookie.onclick = function() {
     }
     
     isCookieBig = !isCookieBig;
-};
+}; 
