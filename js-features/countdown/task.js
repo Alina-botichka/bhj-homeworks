@@ -13,4 +13,4 @@ function updateTimer() {
     }
 }
 
-let timerInterval = setInterval(updateTimer, 1000);
+let timerInterval = setInterval(updateTimer, 1000); 
